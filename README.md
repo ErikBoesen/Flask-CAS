@@ -16,7 +16,7 @@ to authenticate users without gaining access to a user's security
 credentials, such as a password. The name CAS also refers to a 
 software package that implements this protocol. 
 
-http://jasig.github.io/cas
+https://apereo.github.io/cas
 
 ## Demo ##
 
