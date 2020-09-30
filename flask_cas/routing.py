@@ -92,7 +92,7 @@ def validate(ticket):
     Will attempt to validate the ticket. If validation fails, then False
     is returned. If validation is successful, then True is returned
     and the validated username is saved in the session under the
-    key `CAS_USERNAME_SESSION_KEY` while tha validated attributes dictionary
+    key `CAS_USERNAME_SESSION_KEY` while the validated attributes dictionary
     is saved under the key 'CAS_ATTRIBUTES_SESSION_KEY'.
     """
 
